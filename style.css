@@ -1,0 +1,19 @@
+.anh {
+    /* width: 100%;
+    height: 100%; */
+    background-image: url(img/pngtree.jpg);
+    background-position: center;
+
+}
+.vietanh{
+    background-image: url(img/background-la-gi2.jpg);
+}
+.bn a{
+    border-radius:200px;
+}
+.box{
+    height: 130px;
+    /* background: gold; */
+    border:5px white solid;
+    border-radius: 999px;
+}
